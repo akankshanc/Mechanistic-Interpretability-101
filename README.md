@@ -1,8 +1,18 @@
 # Mechanistic Interpretability 101
-![display](MI101.png)
+<p align="center">
+  <a href="Hello.png">
+    <img src="Hello.png" width="250" height="250" />
+  </a>
+  
+  <a href="blackbox.png">
+    <img src="blackbox.png" alt="Center Image" width="250" height="250" />
+  </a>
+  
+  <a href="World.png">
+    <img src="World.png" alt="Right Image" width="250" height="250" />
+  </a>
+</p>
 
-
-Hello World, 
 
 This repository contains comprehensive data and resources associated with my YouTube playlist, 'Mechanistic Interpretability 101', which is dedicated to exploring the topic from the ground up.
 It includes scripts, datasets, visualizations, and supplementary materials designed to help viewers gain a deeper understanding of the concepts and techniques involved.
