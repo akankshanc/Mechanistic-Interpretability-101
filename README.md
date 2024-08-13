@@ -24,3 +24,11 @@ Checkout my channel here:
     <img src="http://img.youtube.com/vi/uPtvw4Lxc7s/0.jpg" alt="IMAGE ALT TEXT HERE" />
   </a>
 </p>
+
+
+## Navigation
+
+- [YouTube Episodes](./YouTube_Episodes/Episode_Links.md)
+- [Exercises](./Exercises)
+- [Slides](./Slides)
+- [Resources](./Resources/Resources.md)
