@@ -1,7 +1,7 @@
 # Mechanistic Interpretability 101
 <p align="center">
-  <a href="/readme_images/Hello.png">
-    <img src="Hello.png" width="250" height="250" />
+  <a href="Hello.png">
+    <img src="/readme_images/Hello.png" width="250" height="250" />
   </a>
   
   <a href="blackbox.png">
